@@ -20,7 +20,7 @@ namespace BouncyBall
     /// </summary>
     public partial class MainWindow : Window
     {
-        FootBall[] footBalls = new FootBall[10];
+        FootBall[] footBalls = new FootBall[2];
 
         public MainWindow()
         {
